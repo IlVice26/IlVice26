@@ -5,4 +5,4 @@ I mainly use Python as a language, but I'm moving towards C#
 
 ### My Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IlVice26&theme=dark&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IlVice26&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
